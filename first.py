@@ -1,1 +1,1 @@
-first.py
+print("My first git-repo")
